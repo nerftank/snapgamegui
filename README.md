@@ -2,6 +2,7 @@
 snap game gui for tafe.
 
 **How to play**
+
 Simply download the snapgamegui.py and run in VSCode and you are good to go!
 
 
